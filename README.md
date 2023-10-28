@@ -1,14 +1,22 @@
 # Pewlett-Hackard-Analysis
 
-# Module 7 Challenge: Upcoming retirements analysis
+# Upcoming retirements analysis
 
-## Overview of the Analysis 
+## Resources
 
-#### Background: 
+CSV Data Sources: [Employees](https://github.com/estridge2014/Pewlett-Hackard-Analysis/blob/main/Data/employees.csv) , [Dept_Employees](https://github.com/estridge2014/Pewlett-Hackard-Analysis/blob/main/Data/dept_emp.csv), [Titles](https://github.com/estridge2014/Pewlett-Hackard-Analysis/blob/main/Data/titles.csv)
+
+Database System: Postgres Version 12.7
+
+Interface: PgAdmin Version 5.2
+
+Language: SQL
+
+## Background: 
 
 Pewlett Hackard is a large company with several thousand employees. Baby boomers are beginning to retire at a rapid rate, which will lead to many thousands of vacancies. The company until now has relied mostly on excel and VBA to analyze and store data. I’ve chosen to update these methods by using SQL in order to handle these large employee information datasets. Through data modeling, engineering, and analysis, HR now has a SQL database of employee data, allowing them to answer the important questions of who is retiring, who is eligible for a retirement package and what positions will need to be filled in the near-future.   
 
-#### Process: 
+### Process: 
 
 Reference employee database challenge file [here](https://github.com/estridge2014/Pewlett-Hackard-Analysis/blob/main/Queries/Employee_Database_Challenge.sql) for the below process. 
 
@@ -37,24 +45,6 @@ Create a [Mentorship Eligibility](https://github.com/estridge2014/Pewlett-Hackar
 1. Join the Employees, Dept_Employees, and Titles tables to create a Mentorship Eligibility table
 2. Filter by birth date and most recent title
 3. Order by employee number
-
-## Resources
-CSV Data Sources: [Employees](https://github.com/estridge2014/Pewlett-Hackard-Analysis/blob/main/Data/employees.csv) , [Dept_Employees](https://github.com/estridge2014/Pewlett-Hackard-Analysis/blob/main/Data/dept_emp.csv), [Titles](https://github.com/estridge2014/Pewlett-Hackard-Analysis/blob/main/Data/titles.csv)
-
-Database System: Postgres Version 12.7
-
-Interface: PgAdmin Version 5.2
-
-Language: SQL
-
-
-
-
-
-
-
-
-
 
 ## Results 
 

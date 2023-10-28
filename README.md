@@ -1,6 +1,5 @@
-# Pewlett-Hackard-Analysis
 
-# Upcoming retirements analysis
+# Pewlett Hackard Upcoming Retirements analysis
 
 ## Resources
 

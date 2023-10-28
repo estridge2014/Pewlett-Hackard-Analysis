@@ -38,6 +38,7 @@ Create a [Mentorship Eligibility](https://github.com/estridge2014/Pewlett-Hackar
 2. Filter by birth date and most recent title
 3. Order by employee number
 
+## Resources
 CSV Data Sources: [Employees](https://github.com/estridge2014/Pewlett-Hackard-Analysis/blob/main/Data/employees.csv) , [Dept_Employees](https://github.com/estridge2014/Pewlett-Hackard-Analysis/blob/main/Data/dept_emp.csv), [Titles](https://github.com/estridge2014/Pewlett-Hackard-Analysis/blob/main/Data/titles.csv)
 
 Database System: Postgres Version 12.7

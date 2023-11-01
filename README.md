@@ -1,5 +1,5 @@
 
-# Pewlett Hackard Upcoming Retirements analysis
+# CUNY Portfolio Example 3: Pewlett Hackard Upcoming Retirements analysis
 
 ## Resources
 

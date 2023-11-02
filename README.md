@@ -1,11 +1,11 @@
 
 # CUNY Portfolio Example 3: Pewlett Hackard Upcoming Retirements Analysis
 
-Context of the Project: 
+### Context of the Project: 
 
 Pewlett Hackard is a large company with several thousand employees. Baby boomers are beginning to retire at a rapid rate, which will lead to many thousands of vacancies. The company until now has relied mostly on excel and VBA to analyze and store data. I’ve chosen to update these methods by using SQL in order to handle these large employee information datasets. Through data modeling, engineering, and analysis, HR now has a SQL database of employee data, allowing them to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. Reference employee database challenge file [here](https://github.com/estridge2014/Pewlett-Hackard-Analysis/blob/main/Queries/Employee_Database_Challenge.sql) for the below process. 
 
-Shortened Analysis Description: 
+### Shortened Analysis Description: 
 
 For this analysis I created four tables using SQL. 
 
